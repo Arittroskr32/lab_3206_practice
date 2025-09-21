@@ -1,0 +1,20 @@
+{
+  "devil": {
+    "tic_tac_toe": {
+      "games": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0
+    },
+    "number_guess": {
+      "games": 0,
+      "best_attempts": null,
+      "total_attempts": 0
+    },
+    "memory_cards": {
+      "games": 0,
+      "best_moves": null,
+      "total_moves": 0
+    }
+  }
+}

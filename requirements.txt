@@ -1,0 +1,17 @@
+# Simple Games Hub - Python Web App Requirements
+
+# Flask web framework for the web application
+Flask>=2.0.0
+
+# Required Python version: 3.6 or higher
+
+# Console version uses only standard library modules:
+# - os (for cross-platform screen clearing)
+# - sys (for graceful exit handling) 
+# - random (for number generation and shuffling)
+# - time (for delays in memory card game)
+
+# Optional: For development and testing
+# pytest>=6.0.0  # Uncomment if you want to run tests
+# black>=21.0.0   # Uncomment for code formatting
+# gunicorn>=20.0.0  # Uncomment for production deployment
